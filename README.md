@@ -43,3 +43,4 @@ Ready or not, here I come!
 
 ```
 
+Click [here](https://github.com/Fran0616/hideAndSeek/blob/master/hideAndSeek.py) to view the code.
